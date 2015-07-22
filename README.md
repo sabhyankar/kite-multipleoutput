@@ -1,2 +1,2 @@
-# DatasetKeyMultipleOutput: A MultiOutput implementation using Kite API
-### Kite-MultipleOutput (DatasetKeyMultipleOutput)
+## DatasetKeyMultipleOutput
+### A MultiOutput implementation using Kite API
